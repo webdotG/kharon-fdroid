@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1774718486,
+    "timestamp": 1774719291,
     "version": 21,
     "maxage": 14,
     "name": "Kharon Messenger",
@@ -34,11 +34,11 @@
         "versionName": "1.0.0",
         "versionCode": 1,
         "added": 1711634400000,
-        "size": 10102797,
+        "size": 10102453,
         "minSdkVersion": 31,
         "targetSdkVersion": 36,
         "apkName": "com.kharon.messenger_1.apk",
-        "hash": "9be2cd71a0744693ee3086f41c62cb2129062fc3295d9eb89ca3499fb10efa20",
+        "hash": "f45986b14f7ca85ac09d076f6a6a590d62a5992eed006f018b9000231bd322c4",
         "hashType": "sha256",
         "sig": "kharon",
         "permissions": [
