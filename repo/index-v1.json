@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1774719915,
+    "timestamp": 1774720371,
     "version": 21,
     "maxage": 14,
     "name": "Kharon Messenger",
@@ -40,7 +40,7 @@
         "apkName": "com.kharon.messenger_1.apk",
         "hash": "f45986b14f7ca85ac09d076f6a6a590d62a5992eed006f018b9000231bd322c4",
         "hashType": "sha256",
-        "sig": "kharon",
+        "sig": "a64d6cc57a1735b43815b8991635347bfcd0eba0a323f8e1a3a772b50a9728fc",
         "permissions": [
           "android.permission.INTERNET",
           "android.permission.CAMERA",
