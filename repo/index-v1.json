@@ -1,0 +1,45 @@
+{
+  "repo": {
+    "timestamp": 1711634400,
+    "version": 21,
+    "maxage": 14,
+    "name": "Kharon Messenger",
+    "icon": "icon.png",
+    "address": "https://webdotg.github.io/kharon-fdroid/repo",
+    "description": "Ephemeral E2E encrypted messenger. Self-hosted. Zero-knowledge."
+  },
+  "requests": {"install": [], "uninstall": []},
+  "apps": [
+    {
+      "packageName": "com.kharon.messenger",
+      "name": "Kharon Messenger",
+      "summary": "Ephemeral E2E encrypted messenger",
+      "description": "Kharon is a minimalist encrypted messenger for small teams. Messages live for 2 minutes, then vanish forever. No accounts, no phone numbers, no history, no servers you do not own.",
+      "license": "MIT",
+      "sourceCode": "https://github.com/webdotG/kharon-mess",
+      "issueTracker": "https://github.com/webdotG/kharon-mess/issues",
+      "icon": "com.kharon.messenger.1.png",
+      "added": 1711634400000,
+      "lastUpdated": 1711634400000,
+      "suggestedVersionCode": 1
+    }
+  ],
+  "packages": {
+    "com.kharon.messenger": [
+      {
+        "packageName": "com.kharon.messenger",
+        "versionName": "1.0.0",
+        "versionCode": 1,
+        "added": 1711634400000,
+        "size": 10667013,
+        "minSdkVersion": 31,
+        "targetSdkVersion": 36,
+        "apkName": "com.kharon.messenger_1.apk",
+        "hash": "4960bd4b1748b3875949c2cf11fed5dcebec3e3be69d97e96a2ecc3b0512c3ff",
+        "hashType": "sha256",
+        "sig": "kharon",
+        "permissions": ["android.permission.INTERNET", "android.permission.CAMERA", "android.permission.FOREGROUND_SERVICE", "android.permission.POST_NOTIFICATIONS"]
+      }
+    ]
+  }
+}
