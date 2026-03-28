@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1774720371,
+    "timestamp": 1774722444,
     "version": 21,
     "maxage": 14,
     "name": "Kharon Messenger",
@@ -16,15 +16,35 @@
     {
       "packageName": "com.kharon.messenger",
       "name": "Kharon Messenger",
-      "summary": "Ephemeral E2E encrypted messenger",
-      "description": "Kharon is a minimalist encrypted messenger for small teams. Messages live for 2 minutes, then vanish forever. No accounts, no phone numbers, no history, no servers you do not own.",
+      "summary": "Ephemeral E2E encrypted messenger. Zero-knowledge.",
+      "description": "Kharon is a minimalist encrypted messenger for small teams.\n\nMessages live for 2 minutes, then vanish forever. No accounts, no phone numbers, no history, no servers you do not own.\n\nFeatures:\n* X25519 + XSalsa20-Poly1305 E2E encryption\n* Server never sees plaintext\n* Messages stored in RAM only (TTL 2 min)\n* Certificate pinning\n* SQLCipher encrypted contacts\n* Android Keystore for keys\n* No screenshots (FLAG_SECURE)\n* 4 UI themes\n\nRequires a self-hosted server. See https://github.com/webdotG/kharon-mess",
       "license": "MIT",
       "sourceCode": "https://github.com/webdotG/kharon-mess",
       "issueTracker": "https://github.com/webdotG/kharon-mess/issues",
       "icon": "com.kharon.messenger.1.png",
-      "added": 1774719915749,
-      "lastUpdated": 1774719915749,
-      "suggestedVersionCode": "1"
+      "added": 1774722444882,
+      "lastUpdated": 1774722444882,
+      "suggestedVersionCode": "1",
+      "changelog": "https://github.com/webdotG/kharon-mess/blob/main/CHANGELOG.md",
+      "webSite": "https://github.com/webdotG/kharon-mess",
+      "categories": [
+        "Internet",
+        "Security"
+      ],
+      "authorName": "webdotG",
+      "antiFeatures": [],
+      "localized": {
+        "en-US": {
+          "summary": "Ephemeral E2E encrypted messenger. Zero-knowledge.",
+          "description": "Kharon is a minimalist encrypted messenger for small teams. Messages live for 2 minutes, then vanish forever. No accounts, no phone numbers, no history.",
+          "name": "Kharon Messenger"
+        },
+        "ru-RU": {
+          "summary": "Эфемерный E2E мессенджер. Без слежки.",
+          "description": "Kharon — минималистичный зашифрованный мессенджер для небольших команд. Сообщения живут 2 минуты, потом исчезают навсегда. Никаких аккаунтов, телефонов, истории.",
+          "name": "Kharon Messenger"
+        }
+      }
     }
   ],
   "packages": {
