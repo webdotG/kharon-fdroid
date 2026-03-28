@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1774719291,
+    "timestamp": 1774719915,
     "version": 21,
     "maxage": 14,
     "name": "Kharon Messenger",
@@ -22,8 +22,8 @@
       "sourceCode": "https://github.com/webdotG/kharon-mess",
       "issueTracker": "https://github.com/webdotG/kharon-mess/issues",
       "icon": "com.kharon.messenger.1.png",
-      "added": 1711634400000,
-      "lastUpdated": 1711634400000,
+      "added": 1774719915749,
+      "lastUpdated": 1774719915749,
       "suggestedVersionCode": "1"
     }
   ],
@@ -33,7 +33,7 @@
         "packageName": "com.kharon.messenger",
         "versionName": "1.0.0",
         "versionCode": 1,
-        "added": 1711634400000,
+        "added": 1774719915749,
         "size": 10102453,
         "minSdkVersion": 31,
         "targetSdkVersion": 36,
@@ -46,7 +46,8 @@
           "android.permission.CAMERA",
           "android.permission.FOREGROUND_SERVICE",
           "android.permission.POST_NOTIFICATIONS"
-        ]
+        ],
+        "lastUpdated": 1774719915749
       }
     ]
   }
