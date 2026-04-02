@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='utf-8'?>
+<fdroid>
+  <repo>
+    <name>Kharon Repository</name>
+    <icon>icons/icon.png</icon>
+    <address>http://localhost</address>
+    <description>Kharon Messenger F-Droid Repo</description>
+    <version>1</version>
+  </repo>
+  <application id="com.kharon.messenger">
+    <id>com.kharon.messenger</id>
+    <added>2026-04-02</added>
+    <lastupdated>2026-04-02</lastupdated>
+    <name>Kharon</name>
+    <summary>Secure Messenger</summary>
+    <desc>Secure messaging application</desc>
+    <license>Unknown</license>
+    <categories>Internet,Communication</categories>
+    <web>https://github.com/webdotG/kharon-mess</web>
+    <source>https://github.com/webdotG/kharon-mess</source>
+    <tracker>https://github.com/webdotG/kharon-mess/issues</tracker>
+    <package id="com.kharon.messenger">
+      <version>1.1</version>
+      <versioncode>2</versioncode>
+      <apkname>app-release.apk</apkname>
+      <hash type="sha256">c62c402d0010c63544acc404f4ea00adc0eda87f9023d5ab5bbe2c3c69818407</hash>
+     <hash type="sha1">e2fa47689c0b337cc3808f39c9825d845ea32fcd</hash>
+      <size>10062029</size>
+      <sdkver>29</sdkver>
+      <targetSdkVer>36</targetSdkVer>
+    </package>
+  </application>
+</fdroid>

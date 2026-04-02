@@ -1,0 +1,30 @@
+Categories:Internet,Communication
+License:Unknown
+Web Site:https://github.com/webdotG/kharon-mess
+Source Code:https://github.com/webdotG/kharon-mess
+Issue Tracker:https://github.com/webdotG/kharon-mess/issues
+Auto Name:Kharon
+Summary:Secure messenger
+Description:|
+    Kharon Messenger is a secure messaging application.
+    (Добавь свое описание здесь)
+
+Repo Type:git
+Repo:https://github.com/webdotG/kharon-mess
+
+Build:1.0.0,1
+    commit=v1.0.0
+    subdir=android
+    gradle=yes
+    gradleprops=android.useAndroidX=true
+
+Build:1.0.1,2
+    commit=v1.0.1
+    subdir=android
+    gradle=yes
+    gradleprops=android.useAndroidX=true
+
+Auto Update Mode:Version v%v
+Update Check Mode:Tags
+Current Version:1.1
+Current Version Code:2
