@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": $(date +%s),
+    "timestamp": 1743624000,
     "version": 1,
     "name": "Kharon Repository",
     "icon": "icons/icon.png",
