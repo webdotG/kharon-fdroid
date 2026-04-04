@@ -1,0 +1,146 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "app-release.apk": {
+    "hash": "c62c402d0010c63544acc404f4ea00adc0eda87f9023d5ab5bbe2c3c69818407",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "com.kharon.messenger.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.kharon.messenger",
+    "versionCode": 2,
+    "name": "Kharon-messenger",
+    "versionName": "1.1",
+    "minSdkVersion": 29,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a",
+      "mips",
+      "mips64",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "fa28696b28de3ca2e4c187c6fbb99d2e",
+    "signer": "a64d6cc57a1735b43815b8991635347bfcd0eba0a323f8e1a3a772b50a9728fc",
+    "size": 10062029,
+    "apkName": "app-release.apk",
+    "added": 1775304990.976943
+  },
+  "com.kharon.messenger_3.apk": {
+    "hash": "29b1b3ae9196e78ad7caf816cc00e2d70f5f0329e9b162917c90e3310b00e140",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.INTERNET",
+        null
+      ],
+      [
+        "android.permission.CAMERA",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE",
+        null
+      ],
+      [
+        "android.permission.FOREGROUND_SERVICE_DATA_SYNC",
+        null
+      ],
+      [
+        "android.permission.REQUEST_IGNORE_BATTERY_OPTIMIZATIONS",
+        null
+      ],
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "android.permission.SCHEDULE_EXACT_ALARM",
+        null
+      ],
+      [
+        "android.permission.RECEIVE_BOOT_COMPLETED",
+        null
+      ],
+      [
+        "android.permission.VIBRATE",
+        null
+      ],
+      [
+        "com.kharon.messenger.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "com.kharon.messenger",
+    "versionCode": 3,
+    "name": "Kharon-messenger",
+    "versionName": "2.0.0",
+    "minSdkVersion": 29,
+    "targetSdkVersion": 36,
+    "nativecode": [
+      "arm64-v8a",
+      "armeabi",
+      "armeabi-v7a",
+      "mips",
+      "mips64",
+      "x86",
+      "x86_64"
+    ],
+    "sig": "fa28696b28de3ca2e4c187c6fbb99d2e",
+    "signer": "a64d6cc57a1735b43815b8991635347bfcd0eba0a323f8e1a3a772b50a9728fc",
+    "size": 11205882,
+    "apkName": "com.kharon.messenger_3.apk",
+    "added": 1775304991.76027
+  },
+  "index-v1.xml": {
+    "name": "index-v1",
+    "apkName": "index-v1.xml",
+    "hash": "3e2724ee532a22a6b3900eae1e362d5a77c1b62fc8f87f8df92f2bed332ed1a5",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "3e2724e",
+    "packageName": "3e2724ee532a22a6b3900eae1e362d5a77c1b62fc8f87f8df92f2bed332ed1a5",
+    "size": 1232,
+    "added": 1775304991.76128
+  }
+}
